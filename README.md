@@ -1,0 +1,2 @@
+# mycoolc
+COOL Compiler
